@@ -1,0 +1,14 @@
+<flex-config>
+ <compiler>
+  <library-path append="true">
+   <path-element>lib</path-element>
+  </library-path>
+ </compiler>
+ <output>./pout/PolygonSample.swf</output>
+ <default-frame-rate>25</default-frame-rate>
+ <default-size>
+  <width>640</width>
+  <height>480</height>
+ </default-size>
+ <default-background-color>0xcccccc</default-background-color>
+</flex-config>
